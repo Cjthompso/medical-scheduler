@@ -1,1 +1,0 @@
-import{_ as e,ia as a,id as n}from"./chunk-BH7UMNK4.js";var A=(()=>{class r{static{this.\u0275fac=function(i){return new(i||r)}}static{this.\u0275mod=a({type:r})}static{this.\u0275inj=e({imports:[n]})}}return r})();export{A as a};
