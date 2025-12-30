@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist/medical-scheduler/browser",
+  "outputDirectory": "dist/medical-scheduler",
   "framework": null,
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
